@@ -111,7 +111,7 @@ def main():
                         rs_effective)
             st.success('The predicted rating is {}'.format(output[0][0]))
             st.success('Confidence interval at 90% confidence: \n')
-            st.success('upper limit: {}'.format(output[1][0]))
+            st.success('lower limit: {}'.format(output[1][0]))
             st.success('upper limit: {}'.format(output[2][0]))
         else:
             st.error('Enter numeric values only in the textboxes')

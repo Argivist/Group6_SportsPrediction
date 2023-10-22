@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97c10ae6-dcf5-4526-8be5-959e959963d0" name="Changes" comment="removing of auto theme">
+    <list default="true" id="97c10ae6-dcf5-4526-8be5-959e959963d0" name="Changes" comment="polish">
       <change beforePath="$PROJECT_DIR$/FifaPredAppUpdated.py" beforeDir="false" afterPath="$PROJECT_DIR$/FifaPredAppUpdated.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +17,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -268,7 +267,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697997671568</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="polish">
+      <option name="closed" value="true" />
+      <created>1697997756283</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1697997756283</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -293,6 +300,7 @@
     <MESSAGE value="repo rename" />
     <MESSAGE value="addition of auto theme" />
     <MESSAGE value="removing of auto theme" />
-    <option name="LAST_COMMIT_MESSAGE" value="removing of auto theme" />
+    <MESSAGE value="polish" />
+    <option name="LAST_COMMIT_MESSAGE" value="polish" />
   </component>
 </project>
