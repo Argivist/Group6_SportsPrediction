@@ -5,7 +5,7 @@ import pickle
 import sklearn
 from sklearn.preprocessing import StandardScaler
 
-
+st.config.set_option('theme.base','auto')
 
 cols=['movement_reactions', 'mentality_composure', 'passing', 'potential',
        'release_clause_eur', 'dribbling', 'wage_eur', 'power_shot_power',
