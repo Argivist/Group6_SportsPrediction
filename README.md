@@ -1,5 +1,9 @@
-# Project Title
+# Sport Prediction
 
+## Authors
+
+- Hutton Amison-Addy
+- Afif Jawhary
 ## Description
 
 This Web App implements a linear regression model trained on Fifa 21 stats dataset to accept some parameters and make a rating prediction with 90% confidence
