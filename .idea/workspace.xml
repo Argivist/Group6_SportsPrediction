@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97c10ae6-dcf5-4526-8be5-959e959963d0" name="Changes" comment="polish">
+    <list default="true" id="97c10ae6-dcf5-4526-8be5-959e959963d0" name="Changes" comment="Alterations to the readme">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +35,8 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -294,7 +296,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697999532996</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Alterations to the readme">
+      <option name="closed" value="true" />
+      <created>1697999831620</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1697999831620</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -320,6 +330,7 @@
     <MESSAGE value="addition of auto theme" />
     <MESSAGE value="removing of auto theme" />
     <MESSAGE value="polish" />
-    <option name="LAST_COMMIT_MESSAGE" value="polish" />
+    <MESSAGE value="Alterations to the readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Alterations to the readme" />
   </component>
 </project>

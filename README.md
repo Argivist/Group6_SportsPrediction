@@ -22,7 +22,3 @@ To access the active web app, click on this link: [Sport predictor](https://grou
 ## Usage
 
 Enter the desired stats by either sliding or entering the numeric values in the case of the money based attributes
-## Contributing
-
-Information about contributing to your project goes here.
-
